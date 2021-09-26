@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Errorflin.
+- 👀 I’m interested in programming, mostly Python.
+- 🌱 I’m currently learning Unity game development.
+- 💞️ I’m looking to collaborate on a pygame game.
+- 📫 How to reach me: errorflin@gmail.com or errorflin.game@gmail.com
